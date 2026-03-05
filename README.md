@@ -1,4 +1,4 @@
-# 🔐 AI Cryptarithm Puzzle Solver v2.0
+# 🔐 AI Cryptarithm Puzzle Solver 
 
 A professional desktop application solving **Cryptarithmetic puzzles** via a high-performance
 **CSP Backtracking solver**, with a fully-featured modern PyQt5 GUI.
@@ -84,7 +84,7 @@ unassigned variables. If 0 is outside that range → prune immediately.
 
 ## 🎨 UI Design
 
-- **Dark neon theme** — deep navy (#0B0D1A) with electric indigo + hot pink accents
+- **Dark neon theme** — deep navy (#0B0D1A) with electric indigo +  pink accents
 - **GlowButton** — custom-painted QPushButton with hover + pulse animations
 - **Three-panel layout** — left: input/results/trace · right: puzzle board
 - **ExplanationPanel** — streams trace lines with color-coded syntax (assign / prune / backtrack)
